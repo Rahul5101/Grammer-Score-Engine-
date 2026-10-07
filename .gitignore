@@ -1,0 +1,23 @@
+# Python / Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+myenv/
+venv/
+.venv/
+env/
+
+# Data & Large Caches
+cache/
+shl-hiring-assessment-2026/
+*.zip
+*.tar.gz
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
